@@ -23,10 +23,9 @@ In order to launch lldb.exe, **python 3.10 is required**.
 lldb --version
 ```
 
-Output:
-```powershell
-lldb version 18.1.8
-```
+Console output:
+
+![LLDB version - console output](./screenshots/LLDB%20version%20-%20console%20output.webp)
 
 2. If you receive a similar output, then the lldb.exe program works.
 
