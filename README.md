@@ -7,7 +7,7 @@ Information on my OS and my LLVM install:
 
 In order to launch lldb.exe, python 3.10 is required. Make sure to check **adding python to the system path** in the python installer.
 
-Python 3.10 download link: https://www.python.org/downloads/release/python-31011/
+Python 3.10: [Python 3.10.11 download link](https://www.python.org/downloads/release/python-31011/)
 - **Note**: Download the Windows installer (64-bit).
 
 Open a new terminal and run the following command: 
