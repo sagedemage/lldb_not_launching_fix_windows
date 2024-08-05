@@ -27,7 +27,7 @@ Console output:
 
 ![LLDB version - console output](./screenshots/LLDB%20version%20-%20console%20output.webp)
 
-2. If you receive a similar output, then the lldb.exe program works.
+2. If you receive a similar output, then the **lldb.exe** program works.
 
 Reaource
 - [Stack Overflow - visual studio lldb.exe liblldb.dll not found](https://stackoverflow.com/questions/76520754/visual-studio-lldb-exe-liblldb-dll-not-found)
