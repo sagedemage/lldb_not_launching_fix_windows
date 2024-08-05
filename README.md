@@ -5,12 +5,20 @@ Information on my OS and my LLVM install:
 - OS: Windows 10
 - LLVM version: 18.1.8
 
-In order to launch lldb.exe, python 3.10 is required. Make sure to check **adding python to the system path** in the python installer.
+In order to launch lldb.exe, **python 3.10 is required**. 
 
-Python 3.10: [Python 3.10.11 download link](https://www.python.org/downloads/release/python-31011/)
-- **Note**: Download the Windows installer (64-bit).
+## Steps to Fix LLDB Install
 
-Open a new terminal and run the following command: 
+1. Download the python `Windows installer (64-bit)` at [Python 3.10.11 download link](https://www.python.org/downloads/release/python-31011/).
+
+2. Make sure to check **Add python.exe to PATH** in the python installer.
+
+![Add python.exe to PATH - python install window](./screenshots/add%20python%20exe%20to%20PATH%20-%20python_install_window.webp)
+
+3. Proceed to install python 3.10
+
+## Check LLDB Works
+1. Open a new terminal and run the following command: 
 ```
 lldb --version
 ```
@@ -20,7 +28,7 @@ Output:
 lldb version 18.1.8
 ```
 
-If you receive a similar output, then the lldb.exe program works.
+2. If you receive a similar output, then the lldb.exe program works.
 
 Reaource
 - [Stack Overflow - visual studio lldb.exe liblldb.dll not found](https://stackoverflow.com/questions/76520754/visual-studio-lldb-exe-liblldb-dll-not-found)
