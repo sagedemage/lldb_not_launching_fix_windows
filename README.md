@@ -1,5 +1,5 @@
 # LLDB not Launching Fix - Windows
-Guide on fixing a LLDB install on Windows.
+Guide on fixing the LLDB install on Windows.
 
 Information on my OS and LLVM install:
 - OS: Windows 10
