@@ -29,11 +29,6 @@ Console output:
 
 2. If you receive a similar output, then the **lldb.exe** program works.
 
-## Special thanks to the creator of markdown-to-html-cli, jaywcjlove.
-markdown-to-html-cli is a CLI tool that converts markdown to HTML.
-- [jaywcjlove/markdown-to-html-cli](https://github.com/jaywcjlove/markdown-to-html-cli)
-- [小弟调调 - jaywcjlove](https://github.com/jaywcjlove)
-
 ## Resources
 - [Stack Overflow - visual studio lldb.exe liblldb.dll not found](https://stackoverflow.com/questions/76520754/visual-studio-lldb-exe-liblldb-dll-not-found)
 - [Issue #61878: Running lldb.exe does nothing - llvm-project GitHub repository](https://github.com/llvm/llvm-project/issues/61878)
