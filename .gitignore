@@ -1,1 +1,4 @@
 *.xcf
+
+# Ruby bundle directories and files
+_site/
